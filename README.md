@@ -1,23 +1,6 @@
-# Titanic Survival Analysis – Exploratory Data Analysis and Logistic Regression
-Interactive EDA and logistic regression on the Kaggle Titanic dataset.
+#My 30-Day ML Hands-on Challenge🚀 
+Hey! I'm doing this 30-day challenge where I code one ML algorithm every day - full EDA, training, evaluation, all in Python. Starting with linear regression, ten logistic regression, decision trees, up to the advanced ones.
 
-This notebook explores survival patterns by demographics, ticket class, family size, fare, and embarkation. It includes data cleaning (missing values), feature engineering (one-hot encoding), visualizations, and trains a logistic regression model (~78.7% accuracy).
+Just pure coding practice. College teaches theory but I need hands-on reps to actually fully understand and implement ML. Daily 2-3 hour sessions = real muscle memory for algorithms, so when I build actual projects later, I'll know exactly what I'm doing.
 
-## Installation instructions for users
-- Clone/download this repository (includes code.ipynb and titanic_train.csv).
-- Install dependencies:
-    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-- Launch and run notebook:
-    jupyter notebook code.ipynb
-
-## Installation instructions for developers
-- Clone repository (includes dataset and notebook).
-- Create/activate virtual environment:
-    python -m venv .venv
-    source .venv/bin/activate  # Linux/Mac
-    .\.venv\Scripts\activate   # Windows
-- Install dev dependencies:
-    pip install pandas numpy matplotlib seaborn scikit-learn jupyter black pytest
-- Format: black . | Test: pytest
-
-- Extend notebook with new models, cross-validation, or hyperparameter tuning tools.
+Simple plan: Notebook → commit → next algo. 30 days from zero to confident.
