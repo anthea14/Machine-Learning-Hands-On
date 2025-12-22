@@ -10,7 +10,7 @@ A personal 30-day challenge where I implement and explore different machine lear
 
 ## **Daily Progress Tracker**
 
-| Day | Date | Algorithm | Status | Key Learnings |
+| Day | Date | Algorithm | Completion Status | Key Learnings |
 |-----|------|-----------------|--------|---------------|
 | 1 | Dec 4 2025 | EDA with Logistic Regression | ✅ Complete | Exploratory data analysis techniques, logistic regression implementation, evaluation metrics |
 | 2 | Dec 21 2025 | Univariate, Bivariate & Multivariate Analysis | ✅ Complete | Different types of data analysis, visualization techniques |
@@ -18,8 +18,8 @@ A personal 30-day challenge where I implement and explore different machine lear
 ---
 
 ## **Progress Statistics**
-- **Completed:** 3/30 days (10%)
-- **Pending:** 27/30 days (87%)
+- **Completed:** 3/30 days
+- **Pending:** 27/30 days
 - **Current Streak:** 2 days
 - **Best Streak:** 2 days
 
