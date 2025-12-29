@@ -19,12 +19,14 @@ A personal 30-day challenge where I implement and explore different machine lear
 | 5 | Dec 24 2025 | Multiple Linear Regression | ✅ Complete | Linear Regression with multiple Independent features, R2 score evaluation metric |
 | 6 | Dec 25 2025 | Linear Regression From Scratch | ✅ Complete | Linear Regression without any in-built libraries |
 | 7 | Dec 26 2025 | Perceptron | ✅ Complete | The Maths behind Perceptrons |
+| 8 | Dec 27 2025 | T-Test and Correlation | ✅ Complete | One Sample T-Test, Two Sample T-Test, Paired T-Test, Correlation |
+| 9 | Dec 29 2025 | Chi Square Test | ✅ Complete | Chi Square test with 2 categorical variables from the 'tips' dataset |
 ---
 
 ## **Progress Statistics**
-- **Completed:** 7/30 days
-- **Pending:** 23/30 days
-- **Current Streak:** 6 days
-- **Best Streak:** 6 days
+- **Completed:** 9/30 days
+- **Pending:** 21/30 days
+- **Current Streak:** 1 days
+- **Best Streak:** 7 days
 
 ---
