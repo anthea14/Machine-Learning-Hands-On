@@ -21,11 +21,12 @@ A personal 30-day challenge where I implement and explore different machine lear
 | 7 | Dec 26 2025 | Perceptron | ✅ Complete | The Maths behind Perceptrons |
 | 8 | Dec 27 2025 | T-Test and Correlation | ✅ Complete | One Sample T-Test, Two Sample T-Test, Paired T-Test, Correlation |
 | 9 | Dec 29 2025 | Chi Square Test | ✅ Complete | Chi Square test with 2 categorical variables from the 'tips' dataset |
+| 10 | Jan 4 2026 | Logistic Regression | ✅ Complete | Binary classification using Logistic Regression |
 ---
 
 ## **Progress Statistics**
-- **Completed:** 9/30 days
-- **Pending:** 21/30 days
+- **Completed:** 10/30 days
+- **Pending:** 20/30 days
 - **Current Streak:** 1 days
 - **Best Streak:** 7 days
 
