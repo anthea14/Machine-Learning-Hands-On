@@ -22,11 +22,12 @@ A personal 30-day challenge where I implement and explore different machine lear
 | 8 | Dec 27 2025 | T-Test and Correlation | ✅ Complete | One Sample T-Test, Two Sample T-Test, Paired T-Test, Correlation |
 | 9 | Dec 29 2025 | Chi Square Test | ✅ Complete | Chi Square test with 2 categorical variables from the 'tips' dataset |
 | 10 | Jan 4 2026 | Logistic Regression | ✅ Complete | Binary classification using Logistic Regression |
+| 11 | Jan 20 2026 | Decision Tree | ✅ Complete | Decision Tree classifier to classify Iris flowers into three species: Setosa, Versicolor, and Virginica |
 ---
 
 ## **Progress Statistics**
-- **Completed:** 10/30 days
-- **Pending:** 20/30 days
+- **Completed:** 11/30 days
+- **Pending:** 19/30 days
 - **Current Streak:** 1 days
 - **Best Streak:** 7 days
 
